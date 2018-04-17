@@ -5,6 +5,11 @@ Simulate Vehicle-to-vehicle (V2V) communication on street networks obtained from
 [![Build Status](https://travis-ci.org/Dosenpfand/V2V-OSM.svg?branch=master)](https://travis-ci.org/Dosenpfand/V2V-OSM)
 ![Coverage](https://github.com/Dosenpfand/V2V-OSM/blob/travis/.travis/coverage.png?raw=true)
 
+## Screenshots
+
+![Exemplary propagation condition](/images/demo_neubau/prop_cond.png?raw=true "Propagation condition")
+![Exemplary pathloss](/images/demo_neubau/pathloss.png?raw=true "Pathloss")
+
 ## Main Components
 Main software components are:
 
